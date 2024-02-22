@@ -4,7 +4,7 @@ controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
         mySprite,
         [img`
             . . . . . . . . . . . . . . . . 
-            . . . . . . . . . . . 3 . . . . 
+            . . . . . . . . . . . . . . . . 
             . . . . . . . . . . . . . . . . 
             . . . . . . . . . . . . . . . . 
             . . . . . . . . . . . . . . . . 
